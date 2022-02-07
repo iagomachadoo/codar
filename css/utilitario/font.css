@@ -1,0 +1,23 @@
+:root{
+    --font-padrao: 'Roboto', sans-serif;
+}
+
+.font-xl{
+    font: 700 4rem/1 var(--font-padrao);
+}
+
+.font-x{
+    font: 700 1,25rem/1.2 var(--font-padrao);
+}
+
+.font-x-b{
+    font: 400 1,25rem/1.2 var(--font-padrao);
+}
+
+.font-l{
+    font: 400 1rem/1.25 var(--font-padrao);
+}
+
+.font-l-b{
+    font: 500 1rem/1.25 var(--font-padrao);
+}

@@ -1,0 +1,32 @@
+:root{
+    --branco:#ffffff;
+    --preto: #000000;
+    --cor1:#121212;
+    --cor2:#9C9C9C;
+    --cor3:#B2B2B2;
+    --cprincipal: #D6000D;
+}
+
+.branco{
+    color: var(--branco);
+}
+
+.preto{
+    color: var(--preto);
+}
+
+.cor-1{
+    color: var(--cor1);
+}
+
+.cor-2{
+    color: var(--cor2);
+}
+
+.cor-3{
+    color: var(--cor3);
+}
+
+.c-principal{
+    color: var(--cprincipal);
+}
