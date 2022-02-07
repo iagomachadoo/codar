@@ -2,22 +2,22 @@
     --font-padrao: 'Roboto', sans-serif;
 }
 
-.font-xl{
+.font-l{
     font: 700 4rem/1 var(--font-padrao);
 }
 
-.font-x{
-    font: 700 1,25rem/1.2 var(--font-padrao);
+.font-m{
+    font: 700 clamp(1rem, 2.5vw, 1.25rem)/1.2 var(--font-padrao);
 }
 
-.font-x-b{
-    font: 400 1,25rem/1.2 var(--font-padrao);
+.font-m-b{
+    font: 400 clamp(1rem, 2.5vw, 1.25rem)/1.2 var(--font-padrao);
 }
 
-.font-l{
+.font-s{
     font: 400 1rem/1.25 var(--font-padrao);
 }
 
-.font-l-b{
+.font-s-b{
     font: 500 1rem/1.25 var(--font-padrao);
 }

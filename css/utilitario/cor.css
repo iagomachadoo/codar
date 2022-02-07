@@ -2,8 +2,9 @@
     --branco:#ffffff;
     --preto: #000000;
     --cor1:#121212;
-    --cor2:#9C9C9C;
-    --cor3:#B2B2B2;
+    --cor2:#404040;
+    --cor3:#9C9C9C;
+    --cor4:#B2B2B2;
     --cprincipal: #D6000D;
 }
 
@@ -25,6 +26,10 @@
 
 .cor-3{
     color: var(--cor3);
+}
+
+.cor-4{
+    color: var(--cor4);
 }
 
 .c-principal{
