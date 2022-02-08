@@ -1,8 +1,3 @@
-.main-header{
-    padding-left: 40px;
-    padding-right: 40px;
-}
-
 .into{
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -28,5 +23,9 @@
     .into{
         grid-template-columns: 1fr;
         text-align: center;
+    }
+
+    .img-intro img{
+        width: 50%;
     }
 }

@@ -15,9 +15,9 @@
 }
 
 .font-s{
-    font: 400 1rem/1.25 var(--font-padrao);
+    font: 400 clamp(.75rem, 2vw, 1rem)/1.25 var(--font-padrao);
 }
 
 .font-s-b{
-    font: 500 1rem/1.25 var(--font-padrao);
+    font: 500 clamp(.75rem, 2vw, 1rem)/1.25 var(--font-padrao);
 }
