@@ -2,8 +2,12 @@
     --font-padrao: 'Roboto', sans-serif;
 }
 
-.font-l{
+.font-xl{
     font: 700 clamp(2rem, 5vw, 4rem)/1 var(--font-padrao);
+}
+
+.font-l{
+    font: 400 clamp(1.125rem, 2.5vw, 1.5rem)/1.2 var(--font-padrao);
 }
 
 .font-m{
@@ -14,10 +18,15 @@
     font: 400 clamp(1rem, 2.5vw, 1.25rem)/1.2 var(--font-padrao);
 }
 
+
 .font-s{
+    font: 500 clamp(.875rem, 2vw, 1rem)/1.25 var(--font-padrao);
+}
+
+.font-xs{
     font: 400 clamp(.75rem, 2vw, 1rem)/1.25 var(--font-padrao);
 }
 
-.font-s-b{
+.font-xs-b{
     font: 500 clamp(.75rem, 2vw, 1rem)/1.25 var(--font-padrao);
 }

@@ -1,0 +1,50 @@
+.section-comentario{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.comentario{
+    background-color: #cfcfcf;
+    padding: 20px;
+    border-radius: 5px;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 0 20px;
+}
+
+.circulo{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: var(--cprincipal);
+}
+
+.conteudo-comentario{
+    display: grid;
+    grid-template-rows: 1fr;
+    align-content: end;
+}
+
+.conteudo-comentario p{
+    margin-bottom: 12px;
+    max-width: 46ch;
+}
+
+@media(max-width: 800px){
+    .section-comentario{
+        grid-template-columns: 1fr;
+    }
+
+    .circulo{
+        width: 50px;
+        height: 50px;
+    }
+}
+
+@media(max-width: 600px){
+    .circulo{
+        width: 40px;
+        height: 40px;
+    }
+}
