@@ -12,7 +12,7 @@
     align-items: center;
 }
 
-a{
+.menu-lista a{
     padding: 8px 16px;
     transition: .2s;
 }

@@ -14,13 +14,12 @@
     font: 700 clamp(1rem, 2.5vw, 1.25rem)/1.2 var(--font-padrao);
 }
 
-.font-m-b{
-    font: 400 clamp(1rem, 2.5vw, 1.25rem)/1.2 var(--font-padrao);
-}
-
-
 .font-s{
     font: 500 clamp(.875rem, 2vw, 1rem)/1.25 var(--font-padrao);
+}
+
+.font-s-b{
+    font: 400 clamp(.875rem, 2vw, 1rem)/1.25 var(--font-padrao);
 }
 
 .font-xs{
