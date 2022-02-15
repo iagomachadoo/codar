@@ -13,7 +13,7 @@
 }
 
 .footer-conteudo > div > img,
-.footer-conteudo h3{
+.footer-conteudo h2{
     margin-bottom: 20px;
 }
 
@@ -21,7 +21,7 @@
     max-width: 20ch;
 }
 
-.contato li:nth-child(3){
+.contato li:nth-child(2){
     margin-top: 20px;
 }
 
@@ -34,7 +34,7 @@
     text-decoration: underline;
 }
 
-.redes-sociais h3{
+.redes-sociais h2{
     margin-bottom: 12px;
 }
 
@@ -84,7 +84,7 @@
         text-align: center;
     }
 
-    .footer-conteudo h3{
+    .footer-conteudo h2{
         margin-bottom: 12px;
     }
 
