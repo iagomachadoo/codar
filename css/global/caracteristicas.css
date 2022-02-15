@@ -83,16 +83,11 @@
     gap: 4px;
 }
 
-.form-label > .formato-num{
-    display: inline-block;
-    font-size: .75rem;
-}
-
 .form-input:focus ~ .form-label,
 .form-input:not(:placeholder-shown).form-input:not(:focus) ~ .form-label{
     top: -18px;
     left: 0;
-    /* font-size: .75rem; */
+    font-size: .75rem;
 }
 
 .contato-caracteristicas button{
