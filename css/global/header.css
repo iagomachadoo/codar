@@ -6,18 +6,18 @@
     margin-bottom: 60px;
 }
 
-.menu-lista{
+.header__menu{
     display: flex;
     gap: 16px;
     align-items: center;
 }
 
-.menu-lista a{
+.header__link{
     padding: 8px 16px;
     transition: .2s;
 }
 
-a:hover{
+.is-hover:hover{
     color: var(--cprincipal);
 }
 
@@ -29,7 +29,7 @@ a:hover{
         margin-bottom: 20px;
     }
 
-    .menu-lista li:last-child{
+    .header__item--none{
         display: none;
     }
 }
