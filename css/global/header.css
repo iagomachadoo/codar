@@ -1,3 +1,5 @@
+@charset "utf-8";
+
 .header-container{
     display: flex;
     justify-content: space-between;
