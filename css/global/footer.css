@@ -23,6 +23,10 @@
     max-width: 20ch;
 }
 
+.footer__intro .footer__texto{
+    max-width: initial;
+}
+
 .footer__link{
     padding: 14px 0;
     display: inline-block;
