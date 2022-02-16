@@ -8,7 +8,7 @@
     transition: .2s;
 }
 
-.btn:hover{
+.btn--hover:hover{
     color: var(--cor1);
 }
 
