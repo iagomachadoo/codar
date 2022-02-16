@@ -16,6 +16,7 @@
     display: flex;
     gap: 10px;
     flex-direction: column;
+    
 }
 
 .caracteristicas__item{
@@ -27,9 +28,9 @@
 .caracteristicas__item::before{
     content: "";
     display: inline-block;
-    width: 16px;
-    height: 16px;
-    background: url("../../assets/img-otimi/check-circle-fill.svg");
+    width: 24px;
+    height: 24px;
+    background: url("../../assets/img-otimi/check_circle.svg");
 }
 
 .caracteristicas__img{
