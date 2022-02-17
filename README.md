@@ -22,8 +22,8 @@
 
 <h2>Versão Desktop</h2>
 
-<img src="./design/desktop-concluido.png" width="1349" height="1707">
+<img src="./design/desktop-concluido-1000-1265.png" width="1000" height="1265">
 
 <h2>Versão Mobile</h2>
 
-<img src="./design/mobile-concluido.png" width="750" height="4366">
+<img src="./design/mobile-concluido-600-3493.png" width="600" height="3493">
